@@ -1,6 +1,6 @@
 ---
 title: "Rhythm Hell"
-thumbnail: "img/projects/Rhythm_Hell/thumbnail.JPG"
+thumbnail: "img/projects/Rhythm_Hell/thumbnail.jpg"
 team:  ["Natalia Chang", "Robyn Haley", "Chris Pribyl", "Carolina Rodriguez", "Mark Spencer"]
 email: "cprib001@ucr.edu"
 platforms: ["PC"]
