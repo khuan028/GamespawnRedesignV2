@@ -1,0 +1,13 @@
+markdown: redcarpet
+exclude: ['README.md', 'LICENSE']
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project-page
