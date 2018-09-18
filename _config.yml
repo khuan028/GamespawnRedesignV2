@@ -10,4 +10,5 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: project-page
+      layout: project_page
+      extra_css: /css/project_page.css
