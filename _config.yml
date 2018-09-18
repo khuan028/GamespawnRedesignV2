@@ -11,4 +11,4 @@ defaults:
       type: projects
     values:
       layout: project_page
-      extra_css: /css/project_page.css
+      extra_css: project_page.css
