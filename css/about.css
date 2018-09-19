@@ -1,0 +1,26 @@
+.group-pic {
+    width: 75%;
+    height: 300px;
+}
+
+.member-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.member-item {
+    padding: 20px;
+    text-align: center;
+}
+
+.member-img {
+    display: block;
+    margin: auto;
+}
+
+@media only screen and (max-width: 800px) {
+    .group-pic {
+        width: 100%;
+        height: 30vw;
+    }
+}
