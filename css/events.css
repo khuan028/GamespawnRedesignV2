@@ -2,3 +2,25 @@
     display: block;
     margin: auto;
 }
+
+.event-calendar {
+    position: relative;
+    height: 500px;
+    width: 75%;
+    padding-bottom: 50%;
+}
+
+.event-calendar iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+    .event-calendar {
+        width: 100%;
+        height: 100vw;
+    }
+}
