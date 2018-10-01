@@ -16,6 +16,28 @@
 .member-img {
     display: block;
     margin: auto;
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+}
+
+.member-name {
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.member-position {
+    font-size: 1.2em;
+}
+
+.member-email {
+    color: gray;
+    font-size: 0.9em;
+}
+
+.member-email:hover {
+    font-weight: 500;
+    color: #0d8cb6;
 }
 
 @media only screen and (max-width: 800px) {

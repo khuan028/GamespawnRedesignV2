@@ -1,7 +1,7 @@
 #project-page-thumbnail {
     height: 400px;
     width: 570px;
-    float: left; 
+    float: left;
     margin-right: 40px;
     object-fit: contain;
     background: #e7e7e7;
@@ -14,14 +14,14 @@
     margin: 0;
 }
 
-.recruitment-banner a{
+.recruitment-banner a {
     color: white;
     font-weight: 600;
     text-decoration: none;
 }
 
 .download-link-container {
-    background: #e7e7e7;
+    background: #0000001c;
     display: flex;
     padding: 12px;
 }

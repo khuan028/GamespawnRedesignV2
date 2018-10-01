@@ -1,10 +1,10 @@
-name,position,image
-Jasiel Jimenez,President,about/jasiel.png
-Christian Alvarado,Vice President,about/default.png
-Jaclyn Huang,Treasurer,about/jaclyn.png
-Annika Kirman,Secretary,about/default.png
-Alexious Jimenez,Workshop Coordinator,about/default.png
-Lorenzo Alamillo,Project Coordinator,about/lorenzo.png
-Yvette Chen,Outreach Coordinator,about/default.png
-Dan Ngo,Event Coordinator,about/default.png
-Kevin Huang,Webmaster,about/default.png
+name,position,image,email
+Jasiel Jimenez,President,about/jasiel.png,jjime038@ucr.edu
+Christian Alvarado,Vice President,about/default.png,calva038@ucr.edu
+Jaclyn Huang,Treasurer,about/jaclyn.png,jhuan057@ucr.edu
+Annika Kirman,Secretary,about/default.png,akirm001@ucr.edu
+Alexious Jimenez,Workshop Coordinator,about/default.png,ajime023@ucr.edu
+Lorenzo Alamillo,Project Coordinator,about/lorenzo.png,lalam003@ucr.edu
+Yvette Chen,Outreach Coordinator,about/evie.png,ychen431@ucr.edu
+Dan Ngo,Event Coordinator,about/default.png,dngo024@ucr.edu
+Kevin Huang,Webmaster,about/kevin.png,khuan028@ucr.edu
