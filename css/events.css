@@ -5,8 +5,8 @@
 
 .event-calendar {
     position: relative;
-    height: 500px;
-    width: 75%;
+    height: 600px;
+    width: 100%;
 }
 
 .event-calendar iframe {
