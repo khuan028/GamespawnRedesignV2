@@ -2,7 +2,7 @@
 title: "Concord"
 thumbnail: "img/projects/Concord/thumbnail.png"
 team:  ["Gamespawn"]
-email: "gamespawn.ucr@gmail.com"
+email: "calva038@ucr.edu"
 platforms: ["PC"]
 description: ""
 tags: ["3D", "ongoing", "recruiting"]
