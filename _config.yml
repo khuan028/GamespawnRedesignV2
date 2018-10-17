@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: /GamespawnRedesignV2
+baseurl: /
 exclude: ['README.md', 'LICENSE']
 
 collections:
