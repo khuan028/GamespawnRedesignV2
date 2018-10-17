@@ -1,5 +1,5 @@
 # GamespawnRedesignV2
 2nd revision of Gamespawn website redesign
-https://khuan028.github.io/GamespawnRedesignV2/index.html
+https://khuan028.github.io/
 
 ![Thumbnail](thumbnail.png)
