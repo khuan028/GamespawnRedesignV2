@@ -232,6 +232,7 @@ nav a {
     }
     .navbar-links-showing {
         max-height: 340px;
+        width: 100%;
     }
     .navbar-text-links {
         display: block;
