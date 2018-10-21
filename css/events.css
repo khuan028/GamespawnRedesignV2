@@ -81,4 +81,14 @@
         width: 100%;
         height: 100vw;
     }
+
+    #main-event-text h1 {
+        font-weight: 500;
+        font-size: 1.5em;
+        color: white;
+    }
+
+    #main-event-text ul {
+        font-size: 1em;
+    }
 }

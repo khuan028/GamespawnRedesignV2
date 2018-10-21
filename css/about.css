@@ -45,4 +45,23 @@
         width: 100%;
         height: 30vw;
     }
+
+    .member-img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .member-grid {
+        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    }
+
+    .member-name {
+        font-size: 1em;
+    }
+    
+    .member-position {
+        font-size: 1em;
+    }
+
+
 }
