@@ -9,7 +9,7 @@ layout: default
         <p id="page-subtitle">By {{ page.team | join: ", " }}</p>
         <br>
         {% if page.tags contains "recruiting" %}
-        <div class="recruitment-banner">{{page.title}} is currently recruiting
+        <div class="recruitment-banner">&#x2605; {{page.title}} is currently recruiting
             {% if page.recruiting and page.recruiting != "" %}
             {{page.recruiting | join: ", "}} and more!
             {% else %}
