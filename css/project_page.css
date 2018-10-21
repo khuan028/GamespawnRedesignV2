@@ -14,12 +14,6 @@
     margin: 0;
 }
 
-.recruitment-banner a {
-    color: white;
-    font-weight: 600;
-    text-decoration: none;
-}
-
 .download-link-container {
     background: #0000001c;
     display: flex;
@@ -39,5 +33,12 @@
 @media only screen and (max-width: 1000px) {
     #project-page-thumbnail {
         width: 100%;
+    }
+
+    .mobile-center-button {
+        display: block;
+        margin-top: 10px;
+        max-width: 30vw;
+        min-width: 100px;
     }
 }

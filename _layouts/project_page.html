@@ -13,9 +13,10 @@ layout: default
             {% if page.recruiting and page.recruiting != "" %}
             {{page.recruiting | join: ", "}} and more!
             {% else %}
-            new members!
+            new members! 
             {% endif %}
-            <a href="mailto:{{page.email}}">Apply now!</a></div>
+            &nbsp;
+            <a href="mailto:{{page.email}}" class="btn-outlined margin-10 mobile-center-button">Apply now!</a></div>
         <br>
         {% endif %}
         <img src="{{site.baseurl}}/{{page.thumbnail}}" id="project-page-thumbnail">
