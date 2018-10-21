@@ -28,12 +28,12 @@
     width: 100%;
     height: 100%;
 
-    background-image: url({{site.baseurl}}/img/index/ipad.jpg);
+    background-image: url({{site.baseurl}}/img/index/hero.png);
     background-position: center;
     background-size: cover;
     background-clip: content-box;
     
-    filter: brightness(50%) blur(3px);
+    filter: brightness(50%);
     transform: scale(1.1);
 }
 
