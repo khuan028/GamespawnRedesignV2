@@ -5,7 +5,7 @@
 ********************************************/
 .project-grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr))
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 
 .project-grid-item-thumbnail {
@@ -14,4 +14,31 @@
     min-height: 200px;
     background-size: cover;
     background-position: center;
+}
+
+/*******************************************
+
+    PROJECTS.MEDIA QUERIES
+
+********************************************/
+
+@media only screen and (max-width: 800px) {
+    .project-grid-container {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    }
+
+    .project-grid-container .thumbnail-height {
+        height: 100px;
+        width: 100px;
+        margin: auto;
+        border-radius: 7px;
+    }
+
+    .project-grid-container .padding-20 {
+        padding: 10px;
+    }
+
+    .project-grid-container h3 {
+        font-size: 0.8em;
+    }
 }
