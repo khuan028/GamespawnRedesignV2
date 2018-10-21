@@ -192,6 +192,12 @@ hr {
     color: #23d0ff;
 }
 
+.top-gun-font {
+    letter-spacing: 2px;
+    font-family: 'top_gunregular', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+
 /*******************************************
 
     COMMON.IMAGES

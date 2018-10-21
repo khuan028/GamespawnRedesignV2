@@ -33,7 +33,7 @@
     background-size: cover;
     background-clip: content-box;
     
-    filter: brightness(75%) blur(3px);
+    filter: brightness(50%) blur(3px);
     transform: scale(1.1);
 }
 
