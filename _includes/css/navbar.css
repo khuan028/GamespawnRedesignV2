@@ -227,12 +227,12 @@ nav a {
     .navbar-links {
         float: none;
         max-height: 0;
+        width: 100%;
         overflow: hidden;
         transition: max-height 0.25s;
     }
     .navbar-links-showing {
         max-height: 340px;
-        width: 100%;
     }
     .navbar-text-links {
         display: block;
